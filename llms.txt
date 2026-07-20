@@ -1,0 +1,24 @@
+# Camino King
+
+> Everything about the Camino de Santiago and breathtaking hiking routes around the world. Routes, packing lists, gear, food and honest recommendations from hikers who have walked it since 2016. English site, Danish sister site at caminoking.dk.
+
+## The ways to Santiago
+- [Camino de Santiago (overview and statistics)](https://caminoking.com/camino-de-santiago/)
+- [Camino Francés](https://caminoking.com/camino-frances/): 771 km, the classic route
+- [Camino Portugués](https://caminoking.com/camino-portugues/): 616 km, gentler with a coastal option
+- [Camino del Norte](https://caminoking.com/camino-del-norte/): 824 km along the Bay of Biscay
+- [Camino Primitivo](https://caminoking.com/camino-primitivo/): 313 km, the oldest and hardest
+- [Camino Inglés](https://caminoking.com/camino-ingles/): 116 km, a full Camino in a week
+- [Vía de la Plata](https://caminoking.com/via-de-la-plata/): 960 km from the south
+- [Camino Finisterre](https://caminoking.com/camino-finisterre/): 89 km to the end of the world
+
+## The universe
+- [Hiking routes worldwide](https://caminoking.com/vandreruter/): Danish and international trails
+- [Gear and packing](https://caminoking.com/udstyr/): backpack, boots, sleeping bag and packing lists
+- [Body and fitness](https://caminoking.com/traening/): training, oxygen uptake, electrolytes
+- [Food on the trail](https://caminoking.com/mad/): campfire meals and recipes
+- [Reading and inspiration](https://caminoking.com/laesning/): books that get you out the door
+
+## More
+- [Every guide](https://caminoking.com/guides/)
+- [About Camino King](https://caminoking.com/about/)
