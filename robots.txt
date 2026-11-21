@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caminoking.com/sitemap-index.xml

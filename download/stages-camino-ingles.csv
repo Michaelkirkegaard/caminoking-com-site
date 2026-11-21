@@ -1,0 +1,10 @@
+﻿Route,Variant,Stage,From,To,Km,Up (m),Down (m),Note,Source
+Camino Inglés,From Ferrol,1,Ferrol,Pontedeume,27.7,392,379,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From Ferrol,2,Pontedeume,Betanzos,19.7,523,509,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From Ferrol,3,Betanzos,Hospital de Bruma,24.0,630,273,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From Ferrol,4,Hospital de Bruma,Sigüeiro,24.4,213,374,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From Ferrol,5,Sigüeiro,Santiago de Compostela,15.7,255,227,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From A Coruña,1,A Coruña,Sergude,19.7,356,243,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From A Coruña,2,Sergude,Hospital de Bruma,12.6,425,168,At Hospital de Bruma the way from A Coruña meets the way from Ferrol,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From A Coruña,3,Hospital de Bruma,Sigüeiro,24.4,213,374,,"Gronze, https://www.gronze.com/camino-ingles"
+Camino Inglés,From A Coruña,4,Sigüeiro,Santiago de Compostela,15.7,255,227,,"Gronze, https://www.gronze.com/camino-ingles"

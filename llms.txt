@@ -1,0 +1,65 @@
+# Camino King
+
+> Everything about the Camino de Santiago and breathtaking hiking routes around the world. Routes, packing lists, gear, fitness, food and honest recommendations from hikers who have walked it since 2016. English-first site, with a Danish sister site at caminoking.dk.
+
+Camino King gathers the seven ways to Santiago in one place, alongside gear guides, training advice, trail food and hiking routes beyond Spain, from Danish coastal paths to Gran Canaria. Everything recommended here has been walked, worn or weighed first. The site is created by Michael Kirkegaard, who walked his first Camino in 2016.
+
+## The ways to Santiago
+- [Camino de Santiago (the complete guide: routes side by side, statistics, when to go, budget and every Camino guide)](https://caminoking.com/camino-de-santiago/)
+- [Plan your first Camino (ten steps from idea to departure)](https://caminoking.com/plan-your-camino/)
+- [Camino Francés](https://caminoking.com/camino-frances/): 771 km from Saint-Jean-Pied-de-Port, the classic first Camino
+- [Camino Portugués](https://caminoking.com/camino-portugues/): 616 km from Lisbon or Porto, gentler with a coastal option
+- [Camino del Norte](https://caminoking.com/camino-del-norte/): 824 km along the Bay of Biscay, quieter and harder
+- [Camino Primitivo](https://caminoking.com/camino-primitivo/): 313 km from Oviedo, the oldest and hardest route
+- [Camino Inglés](https://caminoking.com/camino-ingles/): 116 km from Ferrol, a full Camino in under a week
+- [Vía de la Plata](https://caminoking.com/via-de-la-plata/): 960 km from Seville, the longest and loneliest
+- [Camino Finisterre](https://caminoking.com/camino-finisterre/): 89 km onward from Santiago to the end of the world
+
+## The universe (hub pages)
+- [Hiking routes worldwide](https://caminoking.com/vandreruter/): Danish coastal paths and international trails, including Gran Canaria and Bornholm
+- [Gear and packing](https://caminoking.com/udstyr/): backpacks, boots, sleeping bags and packing lists
+- [Body and fitness](https://caminoking.com/traening/): training, VO2 max, electrolytes and staying fit for long days
+- [Food on the trail](https://caminoking.com/mad/): campfire meals and recipes that hold up after a long day
+- [Reading and inspiration](https://caminoking.com/laesning/): books that get you out the door
+
+## Words and phrases
+- [Camino glossary](https://caminoking.com/camino-glossary/): pilgrim words, Spanish terms and hiking phrases explained in plain English
+- [Spanish phrasebook](https://caminoking.com/spanish-phrasebook/): practical phrases for the hostel, the bar, the trail and emergencies
+
+## A few key guides
+- [What is the Camino de Santiago?](https://caminoking.com/guides/what-is-the-camino-de-santiago/): how the network of routes works and how to choose one
+- [The history of the Way of St. James](https://caminoking.com/guides/the-way-of-st-james-history/): the scallop shell, St. James's Day and the pilgrimage's origins
+- [How long is the Camino?](https://caminoking.com/guides/how-long-is-the-camino/): distances, stages and walking time
+- [The complete Camino packing list](https://caminoking.com/guides/camino-packing-list/): field-tested, what to bring and what to leave home
+- [Which backpack should I choose?](https://caminoking.com/guides/choosing-a-backpack/): sizes, weight rules and what matters most
+- [Hiking boots for the Camino](https://caminoking.com/guides/hiking-boots/): terrain, fit and avoiding blisters
+- [What does food cost on the Camino?](https://caminoking.com/guides/camino-food-costs/): a real daily budget and pilgrim menu advice
+- [Walking the Camino alone](https://caminoking.com/guides/walking-the-camino-alone/): honest experience from several solo Caminos
+- [VO2 max](https://caminoking.com/guides/vo2-max/): oxygen uptake tables and how to train it
+- [Books about the Camino](https://caminoking.com/guides/books-about-the-camino/): a reading list before you walk
+- [Every guide](https://caminoking.com/guides/): the full list, grouped by pillar
+
+## More
+- [About Camino King](https://caminoking.com/about/): the story behind the site
+- [Speaking](https://caminoking.com/speaking/): book a Camino talk for a club, company or hiking group
+
+## Contact and entity
+- Created by Michael Kirkegaard, e-commerce CEO and consultant. Personal site: [michaelkirkegaard.dk](https://michaelkirkegaard.dk/)
+- Email: mail@michaelkirkegaard.dk
+- CVR: DK-39305658
+- Strava: https://www.strava.com/athletes/115539255
+- Instagram: https://www.instagram.com/caminok1ng/
+- YouTube: https://www.youtube.com/@caminoking
+- Danish sister site: [caminoking.dk](https://caminoking.dk/)
+
+## Planning a first Camino
+- [Which route to choose](https://caminoking.com/guides/which-camino-route/)
+- [The Camino month by month](https://caminoking.com/guides/best-time-to-walk-the-camino/)
+- [Where to start the Camino Francés](https://caminoking.com/guides/where-to-start-the-camino-frances/)
+- [The last 100 km from Sarria](https://caminoking.com/guides/last-100-km-from-sarria/)
+- [Getting to the start town](https://caminoking.com/guides/getting-to-the-camino/)
+- [Arriving in Santiago](https://caminoking.com/guides/arriving-in-santiago/)
+- [Luggage transfer](https://caminoking.com/guides/camino-luggage-transfer/)
+- [Shoes for the Camino](https://caminoking.com/guides/shoes-for-the-camino/)
+- [Insurance and safety](https://caminoking.com/guides/camino-insurance-and-safety/)
+- [Bed bugs](https://caminoking.com/guides/bed-bugs-on-the-camino/)
